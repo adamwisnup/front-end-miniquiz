@@ -1,0 +1,19 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.paragraf {
+  font-size: 25px;
+  color: blue;
+}
+h2.paragraf {
+  font-size: 25px;
+  color: blue;
+  font-weight: lighter;
+}
+
+#identitas {
+  font-size: 25px;
+  font-weight: bolder;
+}
